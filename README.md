@@ -28,7 +28,6 @@ Determine key statistical data about the month of June and the month of December
 
 
 
-
 |December Precipitation   |           | tobs   |
 | ------------- |:-------------:| -----:|
 |count   |	 1405.000000	     | 1517.000000  |
