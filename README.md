@@ -1,6 +1,6 @@
 # Surfs Up with Advanced Data Storage and Retrieval
 
-## Description
+### Description
 Using new tools such as SQLite, SQLAlchemy, and Flask to build on our knowledge of SQL database structures and querying methods.
 In addition, writing and executing Python code in a Jupyter lab while creating graphs using matplotlib.
 
@@ -51,7 +51,7 @@ Both months had no min values.
 * When it comes to the temperature observations (tobs) count, min, 25%, 50%,75% and max data, June saw the highest values than in Dec.
 It is only in the std statistic data that we see Dec values greater than that of June's.
 
-## Summary 
+### Summary 
 Based on the results we can see a 30 degree range from the weather between June and Dec. This would allow for the weather temperature to not get in the way of the ice cream and surf business. It would be helpful to run a query on weather trends for rain storms and percipitation.
 
 ### Things Learned
