@@ -4,7 +4,7 @@
 Using new tools such as SQLite, SQLAlchemy, and Flask to build on our knowledge of SQL database structures and querying methods.
 In addition, writing and executing Python code in a Jupyter lab while creating graphs using matplotlib.
 
-### Challenge
+### Challenge Overview
 Run analytics on a weather data set of locations to present to potential investors in a "Surf n Shake" shop.
 Use Jupyter Notebook for our precipitation and station analysis and use VS Code in this module to create our Flask application.
 
